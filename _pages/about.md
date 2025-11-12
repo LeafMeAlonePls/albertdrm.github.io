@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "👋Hello there, I'm Albert"
+title: "Hello there, I'm Albert"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 About Me
 ======
