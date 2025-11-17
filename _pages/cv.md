@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-· June 2024 – Present: Private Tutor
+- June 2024 – Present: Private Tutor
 
   · Self-Employed
   
